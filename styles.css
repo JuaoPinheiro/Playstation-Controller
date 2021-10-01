@@ -233,10 +233,6 @@ h4 {
         margin-top: 5px;
     }
 
-    .social-links {
-        flex-direction: column;
-    }
-
 }
 
 @keyframes moveController {
